@@ -1,2 +1,2 @@
-# Networking-Package-Sniffer
+# Networking Package Sniffer
 Short project developed with Python
